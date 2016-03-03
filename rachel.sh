@@ -1,4 +1,4 @@
-
+# add a comment for git exercises
 for datafile in "$@"
 do
 	echo ${dataafile}
