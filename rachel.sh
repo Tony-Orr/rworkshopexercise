@@ -1,3 +1,4 @@
+#practice, practice, and practice more!
 # add a comment for git exercises
 for datafile in "$@"
 do
